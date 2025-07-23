@@ -1,6 +1,6 @@
 <h2> Hi, I'm Aditya Tiadi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRuY2VscnhrMG5pczlnYThicmpuN3hrbHdxbnEweXA4emoybW1pNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" width="230">
-<p><em>Android Intern at <a href="https://web.doubletick.io">Doubletick</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Open Source Developer at <a href="https://github.com/openmf">Mifos</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Android Intern @ <a href="https://web.doubletick.io">Doubletick</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Open Source Developer @ <a href="https://github.com/openmf">Mifos</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Aditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-tiadi-823930210/)](https://www.linkedin.com/in/aditya-tiadi-823930210/)
