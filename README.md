@@ -1,13 +1,13 @@
 <h2> Hi, I'm Aditya Tiadi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRuY2VscnhrMG5pczlnYThicmpuN3hrbHdxbnEweXA4emoybW1pNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" width="230">
 <p><em>Android Intern at <a href="https://web.doubletick.io">Doubletick</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Open Source Developer at <a href="https://github.com/openmf">Mifos</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-aditya-tiadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-tiadi/)](https://www.linkedin.com/in/aditya-tiadi-823930210/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/Aditya3815?label=follow&style=social)](https://github.com/Aditya3815)
+[![GitHub Aditya](https://img.shields.io/github/followers/Aditya3815?label=follow&style=social)](https://github.com/Aditya3815)
 
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRuY2VscnhrMG5pczlnYThicmpuN3hrbHdxbnEweXA4emoybW1pNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const Adi = {
