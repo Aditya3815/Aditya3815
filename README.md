@@ -3,7 +3,7 @@
 <p><em>Android Intern at <a href="https://web.doubletick.io">Doubletick</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Open Source Developer at <a href="https://github.com/openmf">Mifos</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-aditya-tiadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-tiadi/)](https://www.linkedin.com/in/aditya-tiadi-823930210/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-Aditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-tiadi-823930210/)](https://www.linkedin.com/in/aditya-tiadi-823930210/)
 [![GitHub Aditya](https://img.shields.io/github/followers/Aditya3815?label=follow&style=social)](https://github.com/Aditya3815)
 
 
@@ -12,8 +12,8 @@
 ```javascript
 const Adi = {
   pronouns: "he" | "him",
-  code: ["Kotlin", "Java", "C++", "Python", "XML", "TypeScript"],
-  tools: ["Jetpack Compose", "Retrofit", "Ktor", "Room", "Firebase", "Hilt", "Rive", "Git"],
+  code: ["Kotlin", "Java", "C++", "XML", "TypeScript"],
+  tools: ["Jetpack Compose", "Retrofit", "Ktor", "Firebase", "Git"],
   architecture: ["MVVM", "Clean Architecture", "Server-driven UI", "Kotlin Multiplatform"],
   techCommunities: {
     contributor: "Mifos Initiative (Open Source)",
